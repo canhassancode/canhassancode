@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Ello ello👋
+* Super Nerd
+* Self-taught
+* Cat Dad
 <!--
 **canhassancode/canhassancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
